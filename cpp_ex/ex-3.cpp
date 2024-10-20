@@ -1,3 +1,4 @@
+//phan biet tam giac
 #include <iostream>
 using namespace std;
 int main(){
